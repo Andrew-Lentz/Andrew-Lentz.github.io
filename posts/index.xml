@@ -1,0 +1,35 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on My Cyber Security Adventures</title>
+        <link>https://Andrew-Lentz.github.io/posts/</link>
+        <description>Recent content in Posts on My Cyber Security Adventures</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Fri, 10 Jun 2022 13:09:30 -0400</lastBuildDate>
+        <atom:link href="https://Andrew-Lentz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>SECOND</title>
+            <link>https://Andrew-Lentz.github.io/posts/second/</link>
+            <pubDate>Fri, 10 Jun 2022 13:09:30 -0400</pubDate>
+            
+            <guid>https://Andrew-Lentz.github.io/posts/second/</guid>
+            <description>TEST!</description>
+            <content type="html"><![CDATA[<p>TEST!</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>WELCOME</title>
+            <link>https://Andrew-Lentz.github.io/posts/welcome/</link>
+            <pubDate>Fri, 10 Jun 2022 12:51:01 -0400</pubDate>
+            
+            <guid>https://Andrew-Lentz.github.io/posts/welcome/</guid>
+            <description>This is a test</description>
+            <content type="html"><![CDATA[<p>This is a test</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
